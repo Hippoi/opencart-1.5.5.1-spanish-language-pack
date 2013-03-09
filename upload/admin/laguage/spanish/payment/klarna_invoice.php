@@ -28,6 +28,4 @@ $_['entry_sort_order']    = 'Orden de Aparición:';
 
 // Error
 $_['error_permission']    = 'Cuidado: No tienes los suficientes permisos para modificar Klarna Invoice!';
-$_['error_pclass']        = 'No se puede obtener pClass para %s. Error Códidog: %s; Mensaje de Error: %s';
-$_['error_curl']          = 'Curl Error - Codidgo: %d; Mensaje: %s';
-$_['error_log']           = 'Hay errores actualizando el modulo. Revisar el archivo de logs.';
+?>
