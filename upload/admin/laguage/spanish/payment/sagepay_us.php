@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']      = 'SagePay (US)';
+$_['heading_title']      = 'Sage Payment Soluciones (US)';
 
 // Text
 $_['text_payment']       = 'Pago';
