@@ -57,3 +57,6 @@ Thank you for use this translation n-n
 3) Person: Eduardo Correa
 3) Notice Error: spelling errors
 -------------------------------------------------------------------------------------------------------------
+4) Person: Anil
+4) Notice Error: an extra %s format sign
+-------------------------------------------------------------------------------------------------------------
